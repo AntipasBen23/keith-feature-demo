@@ -78,7 +78,7 @@ export function InteractiveDemo() {
               </div>
               <div className="rounded-[1.75rem] border border-white/10 bg-white/[0.03] p-5">
                 <p className="text-xs uppercase tracking-[0.25em] text-white/45">
-                  Hiring signal
+                  Product quality
                 </p>
                 <p className="mt-4 text-3xl font-semibold tracking-[-0.04em]">
                   Feels built
