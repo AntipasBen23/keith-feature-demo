@@ -25,7 +25,7 @@ export function InteractiveDemo() {
         <header className="flex items-center justify-between border-b border-white/10 pb-5">
           <div>
             <p className="text-xs uppercase tracking-[0.36em] text-white/45">
-              Keith x Transaction Brain
+              Conveyancing Intelligence Demo
             </p>
             <h1 className="mt-2 text-2xl font-semibold tracking-[-0.04em] sm:text-3xl">
               Conveyancing that finally feels visible
@@ -78,13 +78,14 @@ export function InteractiveDemo() {
               </div>
               <div className="rounded-[1.75rem] border border-white/10 bg-white/[0.03] p-5">
                 <p className="text-xs uppercase tracking-[0.25em] text-white/45">
-                  Keith angle
+                  Hiring signal
                 </p>
                 <p className="mt-4 text-3xl font-semibold tracking-[-0.04em]">
                   Feels built
                 </p>
                 <p className="mt-3 text-sm leading-6 text-white/60">
-                  Product behavior, not just slides dressed up as software.
+                  Product thinking, UX judgment, and engineering taste in one
+                  small build.
                 </p>
               </div>
             </div>
@@ -390,7 +391,7 @@ export function InteractiveDemo() {
 
           <div className="rounded-[2rem] border border-[#c7a46a]/25 bg-[linear-gradient(180deg,_rgba(199,164,106,0.16),_rgba(255,255,255,0.03))] p-6 sm:p-8">
             <p className="text-xs uppercase tracking-[0.3em] text-[#f0c27b]">
-              Why this matters for Keith
+              Why this matters
             </p>
             <h3 className="mt-4 text-3xl font-semibold tracking-[-0.04em] text-white">
               This is the product layer that makes a modern law firm feel
@@ -399,8 +400,8 @@ export function InteractiveDemo() {
             <p className="mt-5 text-sm leading-7 text-white/78">
               Most legal tech stops at internal tooling. This goes one layer
               higher: the intelligence, explanations, and coordination system
-              clients actually feel. That is the difference between saying
-              Keith is tech-enabled and making it obvious in every transaction.
+              clients actually feel. That is the difference between claiming a
+              firm is tech-enabled and making it obvious in every transaction.
             </p>
             <div className="mt-6 grid gap-4">
               <div className="rounded-[1.4rem] border border-white/10 bg-black/20 p-5">
@@ -408,8 +409,8 @@ export function InteractiveDemo() {
                   Signature moment
                 </p>
                 <p className="mt-2 text-lg font-medium tracking-[-0.03em]">
-                  A buyer asks one question and Keith answers it before any
-                  human has to.
+                  A buyer asks one question and the product answers it before
+                  any human has to.
                 </p>
               </div>
               <div className="rounded-[1.4rem] border border-white/10 bg-black/20 p-5">

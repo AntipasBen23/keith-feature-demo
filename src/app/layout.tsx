@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Keith Transaction Brain Demo",
+  title: "Conveyancing Intelligence Demo",
   description:
-    "A frontend concept for a premium conveyancing intelligence layer built for Keith.",
+    "A frontend concept showing a premium conveyancing intelligence layer.",
 };
 
 export default function RootLayout({

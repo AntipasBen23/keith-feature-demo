@@ -91,7 +91,7 @@ export const scenarios: Scenario[] = [
       "The system spots the blocker, predicts the delay, drafts the client update, and routes the next action to the right person without waiting for the panic email.",
     buyerQuestion: "Why is my house not completed yet?",
     buyerAnswer:
-      "Completion is waiting on a lender valuation note. Keith expects this to land within two working days, and there is nothing you need to do right now.",
+      "Completion is waiting on a lender valuation note. We expect this to land within two working days, and there is nothing you need to do right now.",
     autoUpdate:
       "Auto-update ready: reassure buyer, chase lender, and preserve trust before inbound calls begin.",
     summaryLabel: "Predicted slip",
@@ -182,7 +182,7 @@ export const scenarios: Scenario[] = [
       },
       {
         time: "10:22",
-        text: "Keith ops queue reprioritized lender chase",
+        text: "Ops queue reprioritized lender chase",
       },
     ],
     dependencies: [
@@ -213,12 +213,12 @@ export const scenarios: Scenario[] = [
     riskLabel: "Recovering",
     confidence: "89%",
     headline: "Completion timeline recovered by 3 days",
-    heroTitle: "Show how Keith turns a wobble into visible momentum.",
+    heroTitle: "Show how a modern legal product turns a wobble into momentum.",
     heroBody:
       "The product does not just report risk. It shows the team exactly what changed, communicates it clearly to the client, and rebuilds confidence while the deal gets back on track.",
     buyerQuestion: "Is my purchase moving again now?",
     buyerAnswer:
-      "Yes. The lender valuation note has arrived and Keith has pushed your file into contract review. Exchange is back within this week if no new blockers appear.",
+      "Yes. The lender valuation note has arrived and your file has moved into contract review. Exchange is back within this week if no new blockers appear.",
     autoUpdate:
       "Auto-update ready: celebrate progress, reset expectations, and reduce anxious check-ins.",
     summaryLabel: "Time recovered",
@@ -241,7 +241,7 @@ export const scenarios: Scenario[] = [
       },
       {
         title: "Contract review",
-        detail: "Keith legal team is reviewing draft contracts now.",
+        detail: "The legal team is reviewing draft contracts now.",
         status: "active",
       },
       {
@@ -345,7 +345,7 @@ export const scenarios: Scenario[] = [
       "At the best moment, the product still matters: it gives clients certainty, keeps the legal team aligned, and turns the most stressful week into a controlled experience.",
     buyerQuestion: "Are we finally ready to complete?",
     buyerAnswer:
-      "Yes. Searches, lender conditions, and contract review are all complete. Keith is preparing exchange and completion steps for your confirmed date.",
+      "Yes. Searches, lender conditions, and contract review are all complete. Exchange and completion steps are now being prepared for your confirmed date.",
     autoUpdate:
       "Auto-update ready: celebrate readiness, confirm next steps, and make the final week feel premium.",
     summaryLabel: "Completion confidence",
@@ -420,7 +420,7 @@ export const scenarios: Scenario[] = [
     activity: [
       {
         time: "14:01",
-        text: "Final contract review cleared by Keith legal",
+        text: "Final contract review cleared by legal team",
       },
       {
         time: "14:06",
@@ -457,7 +457,7 @@ export const scenarios: Scenario[] = [
       },
     ],
     draftedUpdate:
-      "Everything is now in place for exchange and completion. Keith has cleared searches, lender conditions, and contract review, and we will guide you through the final steps toward your confirmed completion date.",
+      "Everything is now in place for exchange and completion. Searches, lender conditions, and contract review are all clear, and we will guide you through the final steps toward your confirmed completion date.",
     suggestedAction: "Send completion checklist",
   },
 ];
